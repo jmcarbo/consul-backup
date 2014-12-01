@@ -1,0 +1,9 @@
+- key: Bla/host2/aservice
+  value: "unas ñkasjd fñkasjd fñkalsdjf asdf asdfñas dfjasdfklajsñdfkjasdf 1 localhost\",
+    \"TargetState\":\"stopped\" }'"
+- key: ExternalServices/host1/aservice
+  value: '{ "Address":"localhost1", "Port":80, "Interval":"1s", "Command":"ping -c
+    1 localhost", "TargetState":"running" }'
+- key: ExternalServices/host2/aservice
+  value: '{ "Address":"localhost1", "Port":80, "Interval":"1s", "Command":"ping -c
+    1 localhost", "TargetState":"stopped" }'
